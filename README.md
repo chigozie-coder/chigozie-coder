@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chigozie-coder&theme=dark" alt="peculiar-codes" /></p>
+
+
+
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=chigozie-coder&theme=dark&border_radius=1em&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chigozie-coder&repo)](https://github.com/anuraghazra/github-readme-stats)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chigozie-coder&layout=compact&theme=dark&border_radius=1em)](https://github.com/anuraghazra/github-readme-stats)
