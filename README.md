@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=chigozie-coder&theme=dark&border_radius=1em&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<!--
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chigozie-coder&repo)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chigozie-coder&layout=compact&theme=dark&border_radius=1em)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **chigozie-coder/chigozie-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
